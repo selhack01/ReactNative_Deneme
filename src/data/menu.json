@@ -1,0 +1,76 @@
+{
+    "foods": [
+        {
+            "id": 1,
+            "name": "Grilled Chicken",
+            "description": "Juicy grilled chicken breast served with steamed vegetables.",
+            "price": 12.99,
+            "category": "Main Course"
+        },
+        {
+            "id": 2,
+            "name": "Caesar Salad",
+            "description": "Fresh romaine lettuce with Caesar dressing, croutons, and parmesan cheese.",
+            "price": 8.99,
+            "category": "Salad"
+        },
+        {
+            "id": 3,
+            "name": "Margherita Pizza",
+            "description": "Classic pizza with fresh tomatoes, mozzarella cheese, and basil.",
+            "price": 10.99,
+            "category": "Pizza"
+        },
+        {
+            "id": 4,
+            "name": "Spaghetti Carbonara",
+            "description": "Traditional Italian pasta with pancetta, eggs, and parmesan.",
+            "price": 11.49,
+            "category": "Pasta"
+        },
+        {
+            "id": 5,
+            "name": "Cheesecake",
+            "description": "Rich and creamy cheesecake served with berry sauce.",
+            "price": 6.50,
+            "category": "Dessert"
+        }
+    ],
+    "drinks": [
+        {
+            "id": 6,
+            "name": "Coca Cola",
+            "description": "Chilled can of Coca Cola.",
+            "price": 2.50,
+            "category": "Soft Drink"
+        },
+        {
+            "id": 7,
+            "name": "Fresh Orange Juice",
+            "description": "Freshly squeezed orange juice.",
+            "price": 4.00,
+            "category": "Juice"
+        },
+        {
+            "id": 8,
+            "name": "Espresso",
+            "description": "Strong and rich Italian coffee shot.",
+            "price": 3.00,
+            "category": "Coffee"
+        },
+        {
+            "id": 9,
+            "name": "Green Tea",
+            "description": "Hot green tea with a refreshing aroma.",
+            "price": 2.75,
+            "category": "Tea"
+        },
+        {
+            "id": 10,
+            "name": "Sparkling Water",
+            "description": "Chilled sparkling mineral water.",
+            "price": 2.25,
+            "category": "Water"
+        }
+    ]
+}
