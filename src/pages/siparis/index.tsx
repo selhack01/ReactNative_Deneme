@@ -4,10 +4,7 @@ import { Button, Text } from "ncore-mobile";
 import stylesheet from "./stylesheet";
 
 const Siparis = ({ route, navigation }: any) => {
-    // route.params üzerinden gelen siparişler verisini alıyoruz
     const { siparisler } = route.params;
-
-    // Toplam fiyatı hesaplamak için
     const totalPrice = siparisler.reduce((acc: number, item: any) => acc + item.price * item.quantity, 0);
 
     const renderItem = ({ item }: { item: any }) => (
